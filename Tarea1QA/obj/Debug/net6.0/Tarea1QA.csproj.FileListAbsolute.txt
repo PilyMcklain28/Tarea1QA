@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\Tarea1QA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\Tarea1QA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\Tarea1QA.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\Tarea1QA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\bin\Debug\net6.0\Tarea1QA.exe
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\bin\Debug\net6.0\Tarea1QA.deps.json
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\bin\Debug\net6.0\Tarea1QA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\bin\Debug\net6.0\Tarea1QA.dll
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\bin\Debug\net6.0\Tarea1QA.pdb
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\Tarea1QA.dll
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\refint\Tarea1QA.dll
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\Tarea1QA.pdb
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\Tarea1QA.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Prueba C#\Tarea1QA\Tarea1QA\obj\Debug\net6.0\ref\Tarea1QA.dll
